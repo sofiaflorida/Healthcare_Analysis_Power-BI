@@ -17,11 +17,4 @@ An interactive dashboard analyzing:
 - Data Modeling  
 - Data Visualization  
 
-## Dashboard Preview
-![Hospital Dashboard](hospital_dashboard.png)
-![Patients Dashboard](patients_dashboard.png)
-![Doctors Dashboard](doctors_dashboard.png)
 
-## File
-Download the Power BI report:  
-Healthcare_Analytics_PowerBI.pbix
